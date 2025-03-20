@@ -1,0 +1,133 @@
+Target dependency graph (35 targets)
+AppAuth in Pods
+BoringSSL-GRPC in Pods
+PromisesObjC in Pods
+GoogleUtilities in Pods, depends on:
+PromisesObjC in Pods (explicit)
+nanopb in Pods
+GoogleDataTransport in Pods, depends on:
+GoogleUtilities in Pods (explicit)
+PromisesObjC in Pods (explicit)
+nanopb in Pods (explicit)
+FirebaseCoreDiagnostics in Pods, depends on:
+GoogleDataTransport in Pods (explicit)
+GoogleUtilities in Pods (explicit)
+nanopb in Pods (explicit)
+FirebaseCore in Pods, depends on:
+FirebaseCoreDiagnostics in Pods (explicit)
+GoogleUtilities in Pods (explicit)
+FirebaseInstallations in Pods, depends on:
+FirebaseCore in Pods (explicit)
+GoogleUtilities in Pods (explicit)
+PromisesObjC in Pods (explicit)
+GoogleAppMeasurement in Pods, depends on:
+GoogleUtilities in Pods (explicit)
+nanopb in Pods (explicit)
+FirebaseAnalytics in Pods, depends on:
+FirebaseCore in Pods (explicit)
+FirebaseInstallations in Pods (explicit)
+GoogleAppMeasurement in Pods (explicit)
+GoogleUtilities in Pods (explicit)
+nanopb in Pods (explicit)
+GTMSessionFetcher in Pods
+FirebaseAuth in Pods, depends on:
+FirebaseCore in Pods (explicit)
+GTMSessionFetcher in Pods (explicit)
+GoogleUtilities in Pods (explicit)
+abseil in Pods
+gRPC-C++-gRPCCertificates-Cpp in Pods
+gRPC-Core in Pods, depends on:
+BoringSSL-GRPC in Pods (explicit)
+abseil in Pods (explicit)
+gRPC-C++ in Pods, depends on:
+abseil in Pods (explicit)
+gRPC-C++-gRPCCertificates-Cpp in Pods (explicit)
+gRPC-Core in Pods (explicit)
+leveldb-library in Pods
+FirebaseFirestore in Pods, depends on:
+FirebaseCore in Pods (explicit)
+abseil in Pods (explicit)
+gRPC-C++ in Pods (explicit)
+leveldb-library in Pods (explicit)
+nanopb in Pods (explicit)
+FirebaseFunctions in Pods, depends on:
+FirebaseCore in Pods (explicit)
+GTMSessionFetcher in Pods (explicit)
+Firebase in Pods, depends on:
+FirebaseAnalytics in Pods (explicit)
+FirebaseAuth in Pods (explicit)
+FirebaseCore in Pods (explicit)
+FirebaseFirestore in Pods (explicit)
+FirebaseFunctions in Pods (explicit)
+Flutter in Pods
+GTMAppAuth in Pods, depends on:
+AppAuth in Pods (explicit)
+GTMSessionFetcher in Pods (explicit)
+GoogleSignIn in Pods, depends on:
+AppAuth in Pods (explicit)
+GTMAppAuth in Pods (explicit)
+GTMSessionFetcher in Pods (explicit)
+audio_session in Pods, depends on:
+Flutter in Pods (explicit)
+firebase_core in Pods, depends on:
+Firebase in Pods (explicit)
+Flutter in Pods (explicit)
+cloud_firestore in Pods, depends on:
+Firebase in Pods (explicit)
+Flutter in Pods (explicit)
+firebase_core in Pods (explicit)
+cloud_functions in Pods, depends on:
+Firebase in Pods (explicit)
+Flutter in Pods (explicit)
+firebase_core in Pods (explicit)
+firebase_analytics in Pods, depends on:
+Firebase in Pods (explicit)
+Flutter in Pods (explicit)
+firebase_core in Pods (explicit)
+firebase_auth in Pods, depends on:
+Firebase in Pods (explicit)
+Flutter in Pods (explicit)
+firebase_core in Pods (explicit)
+google_sign_in in Pods, depends on:
+Flutter in Pods (explicit)
+GoogleSignIn in Pods (explicit)
+just_audio in Pods, depends on:
+Flutter in Pods (explicit)
+path_provider in Pods, depends on:
+Flutter in Pods (explicit)
+shared_preferences in Pods, depends on:
+Flutter in Pods (explicit)
+Pods-Runner in Pods, depends on:
+AppAuth in Pods (explicit)
+BoringSSL-GRPC in Pods (explicit)
+Firebase in Pods (explicit)
+FirebaseAnalytics in Pods (explicit)
+FirebaseAuth in Pods (explicit)
+FirebaseCore in Pods (explicit)
+FirebaseCoreDiagnostics in Pods (explicit)
+FirebaseFirestore in Pods (explicit)
+FirebaseFunctions in Pods (explicit)
+FirebaseInstallations in Pods (explicit)
+Flutter in Pods (explicit)
+GTMAppAuth in Pods (explicit)
+GTMSessionFetcher in Pods (explicit)
+GoogleAppMeasurement in Pods (explicit)
+GoogleDataTransport in Pods (explicit)
+GoogleSignIn in Pods (explicit)
+GoogleUtilities in Pods (explicit)
+PromisesObjC in Pods (explicit)
+abseil in Pods (explicit)
+audio_session in Pods (explicit)
+cloud_firestore in Pods (explicit)
+cloud_functions in Pods (explicit)
+firebase_analytics in Pods (explicit)
+firebase_auth in Pods (explicit)
+firebase_core in Pods (explicit)
+gRPC-C++ in Pods (explicit)
+gRPC-Core in Pods (explicit)
+google_sign_in in Pods (explicit)
+just_audio in Pods (explicit)
+leveldb-library in Pods (explicit)
+nanopb in Pods (explicit)
+path_provider in Pods (explicit)
+shared_preferences in Pods (explicit)

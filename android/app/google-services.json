@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "914453568995",
+    "project_id": "learntagalog-98b6a",
+    "storage_bucket": "learntagalog-98b6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914453568995:android:1cf0dacb7a5055009394d6",
+        "android_client_info": {
+          "package_name": "com.example.carolinemcgregor.learn_tagalog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "914453568995-tskb26bn059ene842gafr1aksjpc3in7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-h546Yu89vKfmKPhhnLVuqJvLX66iihc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "914453568995-tskb26bn059ene842gafr1aksjpc3in7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
